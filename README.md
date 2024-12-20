@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Liam Bray. I'm a student in the class of 2028 who loves to learn new things.<br>👀 I’m interested in physics, mathematics, robotics, data science, and ML.<br>🌱 I’m currently learning ROS, Unity, Web Dev (Three, React, TS, and GSAP), and <br>🔭I'm looking to collaborate on any fascinating scientific research.<br>🚀 I’m currently working on creating a fully autonomous boat and efficient soft-robotics system.
+👋 Hi, I’m Liam Bray. I'm a student in the class of 2028 who loves to learn new things.<br>👀 I’m interested in physics, mathematics, robotics, data science, and ML.<br>🌱 I’m currently learning ROS, Unity, Web Dev, Java, and C++.<br>🔭I'm looking to collaborate on any fascinating scientific research.<br>🚀 I’m currently working on creating a fully autonomous boat and efficient soft-robotics system.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/900545493149573160) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28137244) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/1unarzDev) 
