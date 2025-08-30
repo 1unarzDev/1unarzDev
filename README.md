@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Liam Bray. I'm a student who loves to learn new things.<br>👀 I’m interested in competitive programming, mathematics, robotics, and data science/ML.<br>🌱 I’m currently learning ROS, Unity, Web Dev, Java, and C++.<br>🔭I'm looking to collaborate on any innovative programming projects.<br>🚀 I’m currently working on creating a mental math app with React Native.
+👋 Hi, I’m Liam Bray, a student who loves to learn new things.<br>👀 I’m interested in competitive programming, mathematics, robotics, and data science/ML.<br>🌱 I’m currently learning ROS, Unity, Web Dev, Java, and C++.<br>🔭I'm looking to collaborate on any innovative programming projects.<br>🚀 I’m currently working on creating a mental math app with React Native.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/900545493149573160) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28137244) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/1unarzDev) 
